@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lab1</string>
+    <string name="main_text">Welcome to Android!</string>
+    <string name="button_text">SUBMIT</string>
 </resources>
